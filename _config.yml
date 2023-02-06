@@ -5,9 +5,6 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
-# Allow pages to span full width of window
-full-width: true
-
 ############################
 # --- Required options --- #
 ############################
@@ -121,6 +118,9 @@ navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
+
+# Allow pages to span full width of window
+full-width: true
 
 ######################################
 # --- Colours / background image --- #
